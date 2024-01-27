@@ -1,0 +1,7 @@
+QUESTION : Explain the difference between Absolute and Relative positioning.
+
+ANSWER : Difference between Absolute and Relative positioning is that :
+
+1. Absolute positioning move with respect to it's relative parent position whereas Relative positioning move with respect to it's original position.
+
+2. By default, Absolute positioning starts from top:0 and left:0 whereas Relative positioning by default starts from it's original position without affecting other elements.
